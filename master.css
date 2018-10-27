@@ -63,6 +63,10 @@ background-position: 0% 50%
 
 }
 
+.container {
+    max-width: 1200px;
+}
+
 .abc
 {
 font-family: 'Stalemate', cursive;
