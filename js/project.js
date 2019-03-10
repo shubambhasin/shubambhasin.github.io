@@ -1,9 +1,6 @@
 /*top button */
 
 
-
-
-
 /*main#########################*/
 var animationEnd = (function(el) {
       var animations = {
@@ -25,7 +22,7 @@ var animationEnd = (function(el) {
 function pageLoaded(){
 
 	/*#############################button top#########################*/
-	
+
 $(document).ready(function(){ 
     $(window).scroll(function(){ 
         if ($(this).scrollTop() > 100) { 
